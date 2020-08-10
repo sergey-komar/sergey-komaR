@@ -1,0 +1,42 @@
+html{
+	font-size:20px;
+	font-family:Sans-serif;
+}
+h1{
+font-size:60px;
+text-align:center;
+}
+h3{
+font-family:Serif;
+font-size:25px;
+text-align:center;
+color:#FFFFFF;
+}
+h4{
+	color:#FFFFFF;
+}
+p,li{
+	font-size:15px;
+	line-height:2;
+	letter-spacing:1px;
+}
+html{
+	background-color:#7B68EE;
+}
+body{
+	width:780px;
+	margin:0 auto;
+	background-color:#FF1493;
+	padding: 0 20px 20px 20px;
+	border: 14px solid white;
+}
+h1{
+	margin:0;
+	padding:20px 0;
+	color:#7B68EE;
+	text-shadow:3px 3px 1px black;
+}
+img{
+	display: block;
+	margin:0 auto;
+}
